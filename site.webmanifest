@@ -1,0 +1,19 @@
+{
+    "name": "Kyritsakis",
+    "short_name": "Kyritsakis",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-U1jQcS54ZEQ/YJaKD74tHvI/AAAAAAAAxu4/PGKnEWytVbUKr7IwV7Ik37JZUQ-TCORCQCLcBGAsYHQ/s0/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-xP1k8QUPK0E/YJaKD2TL6cI/AAAAAAAAxu0/nITTFMOItbQjysJNGyOqhQo8Z1a_aP-0ACLcBGAsYHQ/s16000/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
